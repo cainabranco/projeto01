@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">projeto01</string>
+    <string name="nome_do_produto">Nome do Produto</string>
+    <string name="digite_o_nome">Digite o nome</string>
+    <string name="valor_do_produto">Valor do Produto</string>
+    <string name="digite_o_valor">Digite o valor</string>
+    <string name="voltar">Voltar</string>
+    <string name="salvar">Salvar</string>
+    <string name="novo_produto">Novo Produto</string>
+    <string name="excluir">Excluir</string>
+</resources>
